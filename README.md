@@ -36,17 +36,17 @@ nyc-taxi-tip-prediction/
 
 ### 1. Clonar el repositorio
 
-git clone https://github.com/RiveraCamilo/nyc-taxi-tip-prediction.git
-cd nyc-taxi-tip-prediction
+`git clone https://github.com/RiveraCamilo/nyc-taxi-tip-prediction.git`  
+`cd nyc-taxi-tip-prediction`
 
 ### 2. Crear un entorno virtual (opcional pero recomendado)
-python -m venv .venv
-.venv\Scripts\activate    # En Windows
-source .venv/bin/activate  # En macOS/Linux
+`python -m venv .venv`  
+`.venv\Scripts\activate`    # En Windows  
+`source .venv/bin/activate`  # En macOS/Linux  
 
 ### 3. Instalar las dependencias
 
-pip install -r requirements.txt
+`pip install -r requirements.txt`
 
 
 ### 4 Descargar los archivos de datos
