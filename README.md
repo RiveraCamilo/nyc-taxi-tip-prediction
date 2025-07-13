@@ -13,21 +13,21 @@ El análisis se basa en un notebook provisto que explora el uso de característi
 
 ## Estructura del proyecto
 
-nyc-taxi-tip-prediction/
-├── data/
-│ ├── raw/ # Datos originales (.parquet)
-├── models/ # Modelos entrenados (archivos .pkl)
-├── notebooks/ # Desarrollo y análisis
-│ ├── 01-crivera-exploracion-datos.ipynb
-│ ├── 02-crivera-entrenamiento-modelo.ipynb
-│ ├── 03-crivera-evaluacion-modelo-febrero.ipynb
-│ └── 04-criverav-analisis-mensual-resultados.ipynb
-├── src/ # Código modular del proyecto
-│ ├── data/
-│ ├── features/
-│ └── modeling/
-├── requirements.txt
-└── README.md
+nyc-taxi-tip-prediction/   
+├── data/  
+│ ├── raw/ # Datos originales (.parquet)  
+├── models/ # Modelos entrenados (archivos .pkl)  
+├── notebooks/ # Desarrollo y análisis  
+│ ├── 01-crivera-exploracion-datos.ipynb  
+│ ├── 02-crivera-entrenamiento-modelo.ipynb  
+│ ├── 03-crivera-evaluacion-modelo-febrero.ipynb  
+│ └── 04-criverav-analisis-mensual-resultados.ipynb  
+├── src/ # Código modular del proyecto  
+│ ├── data/  
+│ ├── features/  
+│ └── modeling/  
+├── requirements.txt  
+└── README.md  
 
 
 ---
